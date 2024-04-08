@@ -133,3 +133,16 @@ tbody td button {
 tbody td button:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 768px){
+
+  fieldset > div {
+    display: flex;
+    flex-direction: column;
+  }
+
+  div button {
+    width: 100%;
+  }
+
+}
