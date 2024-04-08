@@ -145,4 +145,20 @@ tbody td button:hover {
     width: 100%;
   }
 
+  table thead {
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  tbody td {
+    font-size: 10px;
+  }
+
+  tbody td strong {
+    font-size: 12px;
+  }
+
+  tbody td small {
+    font-size: 10px;
+  }
 }
